@@ -1,0 +1,20 @@
+{
+	"name": "Astronomy Picture Of The Day",
+	"short_name": "APOD",
+	"start_url": "index.php",
+	"description": "View the Astronomy Picture Of The Day from the official NASA-APOD site for any date and save any that you find intresting.",
+	"icons": [
+		{
+		"src": "favicon.png",
+		"sizes": "192x192",
+		"type": "image/png"
+		},
+		{
+		"src": "favicon.png",
+		"sizes": "512x512",
+		"type": "image/png"
+		}],
+	"background_color": "#000000",
+	"display": "standalone",
+	"theme_color": "#000000"
+}
